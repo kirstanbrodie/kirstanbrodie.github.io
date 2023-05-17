@@ -11,7 +11,7 @@ website:
         text: About
       - href: pubs.qmd
         text: Publications
-      - href: files/BrodieCV.pdf
+      - href: CV.qmd
         text: CV
     tools:
       - icon: envelope
