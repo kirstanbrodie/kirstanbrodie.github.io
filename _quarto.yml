@@ -3,18 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "kirstanbrodie.github.io"
+  title: "Kirstan Brodie"
+  search: false
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: pubs.qmd
+        text: Publications
+      - href: files/BrodieCV.pdf
+        text: CV
+    tools:
+      - icon: envelope
+        href: mailto:klb322@cornell.edu
+      - icon: twitter
+        href: https://twitter.com/KirstanBrodie
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kirstanbrodie/
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
-
+    page-layout: full
+    link-external-newwindow: true
+    
+editor: visual
 

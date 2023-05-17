@@ -1,7 +1,25 @@
 ---
-title: "kirstanbrodie.github.io"
+title: ""
+image: files/images/Kirstan_Brodie.jpg
+about:
+  template: trestles
+  image-width: 20em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:klb322@cornell.edu
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/KirstanBrodie
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kirstanbrodie/
 ---
 
-This is a Quarto website.
+I am a PhD student in Social Psychology at Cornell University, working primarily with [Dr. Amy Krosch](https://www.kroschlab.com/).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**I study the cognitive processes and motivations underlying prejudice and stereotyping.**
+
+My current research focuses on the reward value of stereotype confirmation, i.e. the idea that people find it subjectively rewarding when their stereotype-based expectations about a person are confirmed. I am interested in how this reward value may reinforce people's stereotype beliefs over time.
+
+I use a multi-method approach to explore these questions, including behavioral experiments, computational modeling, and functional neuroimaging.
