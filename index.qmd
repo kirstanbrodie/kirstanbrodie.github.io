@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Kirstan Brodie"
 image: files/images/Kirstan_Brodie.jpg
 about:
   template: trestles
