@@ -1,7 +1,9 @@
 ---
 title: ""
+resources:
+  - "files/BrodieCV.pdf"
 ---
 
 ```{=html}
-<iframe width="850" height="800" src="https://kirstanbrodie.github.io/files/BrodieCV.pdf" title="Kirstan Brodie's CV"></iframe>
+<iframe width="850" height="800" src="files/BrodieCV.pdf" title="Kirstan Brodie's CV"></iframe>
 ```
