@@ -5,6 +5,7 @@ project:
 website:
   title: "Kirstan Brodie"
   search: false
+  google-analytics: "G-45GKYBQPES""
   navbar:
     left:
       - href: index.qmd
