@@ -18,6 +18,8 @@ website:
     tools:
       - icon: envelope
         href: mailto:klb322@cornell.edu
+      - icon: boxes
+        href: https://bsky.app/profile/kirstanbrodie.bsky.social
       - icon: twitter
         href: https://twitter.com/KirstanBrodie
       - icon: linkedin
