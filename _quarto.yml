@@ -15,15 +15,15 @@ website:
       - href: CV.qmd
         text: CV
 
-    tools:
+    right:
       - icon: envelope
         href: mailto:klb322@cornell.edu
-      - icon: boxes
+      - text: "{{< iconify fa6-brands bluesky >}}"
         href: https://bsky.app/profile/kirstanbrodie.bsky.social
-      - icon: twitter
-        href: https://twitter.com/KirstanBrodie
       - icon: linkedin
         href: https://www.linkedin.com/in/kirstanbrodie/
+      - text: "{{< iconify academicons google-scholar size=xl >}}"
+        href: https://scholar.google.com/citations?user=yTHqqAQAAAAJ
 
 format:
   html:

@@ -6,17 +6,13 @@ about:
   image-width: 20em
   links:
     - icon: envelope
-      text: Email
       href: mailto:klb322@cornell.edu
-    - icon: boxes
-      text: Bluesky
+    - text: "{{< iconify fa6-brands bluesky >}}"
       href: https://bsky.app/profile/kirstanbrodie.bsky.social
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/KirstanBrodie
     - icon: linkedin
-      text: LinkedIn
       href: https://www.linkedin.com/in/kirstanbrodie/
+    - text: "{{< iconify academicons google-scholar size=xl >}}"
+      href: https://scholar.google.com/citations?user=yTHqqAQAAAAJ
 ---
 
 I am a PhD student in Social Psychology at Cornell University, working primarily with [Dr. Amy Krosch](https://www.kroschlab.com/).
