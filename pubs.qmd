@@ -10,6 +10,8 @@ title: "Publications"
 
 **Brodie, K.**, Schwitzgebel, E., Nemirow, J., & Cushman, F. (under review). Philosophical arguments can boost charitable giving. [**Online**](https://osf.io/preprints/psyarxiv/5v2md_v1){target="_blank"} \| [**PDF**](files/papers/Charitable_Giving_Manuscript_Preprint.pdf)
 
+Lee, R., **Brodie, K.**, Richardson, J., & Gilovich, T. (under review). Glad to Help Out: Grateful People Are More Likely to Engage in Costly Prosocial Action.
+
 #### [Peer-reviewed publications]{.underline}
 
 Reggev, N., **Brodie, K.**, Cikara, M., & Mitchell, J.P. (2020). Human face-selective cortex does not distinguish between members of a racial outgroup. *ENeuro*, *7*(3). [**Online**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7266143/){target="_blank"} \| [**PDF**](files/papers/ReggevBrodieCikaraMitchell2020.pdf)
