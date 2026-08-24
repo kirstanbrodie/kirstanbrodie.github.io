@@ -6,7 +6,7 @@ about:
   image-width: 20em
   links:
     - icon: envelope
-      href: mailto:klb322@cornell.edu
+      href: mailto:Kirstan.Brodie@colorado.edu
     - text: "{{< iconify fa6-brands bluesky >}}"
       href: https://bsky.app/profile/kirstanbrodie.bsky.social
     - icon: linkedin
@@ -15,10 +15,8 @@ about:
       href: https://scholar.google.com/citations?user=yTHqqAQAAAAJ
 ---
 
-I am a PhD candidate in Social Psychology at Cornell University working with [Dr. Amy Krosch](https://www.kroschlab.com/) and [Dr. Tom Gilovich](https://www.thomasgilovich.com/).
+I am a Postdoctoral Associate in the Department of Psychology and Neuroscience at the University of Colorado Boulder working with [Dr. Youngki Hong](https://www.svmlab.org/). I completed my PhD in Psychology at Cornell University.
 
-**I study the cognitive processes and motivations underlying stereotype persistence.**
+**I study the cognitive and neural mechanisms underlying biases in social learning and perception.** My research focuses on how stereotypes are formed and maintained, and how person perception shifts across group boundaries and social contexts. I use a multi-method approach to explore these questions, including behavioral experiments, computational modeling, and fMRI.
 
-My current research focuses on the reward value of stereotype confirmation, i.e. the idea that people find it subjectively rewarding when their stereotype-based expectations about a person are confirmed. I am interested in how this reward value may reinforce people's stereotype beliefs over time. I am also currently investigating neural responses to stereotype violations and other forms of expectation violation, aiming to identify mechanisms that hinder belief updating.
-
-I use a multi-method approach to explore these questions, including behavioral experiments, computational modeling, and functional neuroimaging.
+In my spare time, I enjoy baking, playing trumpet in my local community concert band, and camping.
