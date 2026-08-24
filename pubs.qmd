@@ -14,6 +14,6 @@ title: "Publications"
 
 #### [Peer-reviewed publications]{.underline}
 
-Lee, R., **Brodie, K.**, Richardson, J., & Gilovich, T. (in press). Glad to help out: Grateful people are more likely to engage in costly prosocial action. *Emotion.* [**PDF**](files/papers/Lee_et_al_under_review.pdf)
+Lee, R., **Brodie, K.**, Richardson, J., & Gilovich, T. (in press). Glad to help out: Grateful people are more likely to engage in costly prosocial action. *Emotion.* [**Online**](https://psycnet.apa.org/record/2028-15370-001){target="_blank"} \| [**PDF**](files/papers/LeeBrodieRichardsonGilovich2026.pdf)
 
 Reggev, N., **Brodie, K.**, Cikara, M., & Mitchell, J.P. (2020). Human face-selective cortex does not distinguish between members of a racial outgroup. *ENeuro*, *7*(3). [**Online**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7266143/){target="_blank"} \| [**PDF**](files/papers/ReggevBrodieCikaraMitchell2020.pdf)
