@@ -18,5 +18,3 @@ about:
 I am a Postdoctoral Associate in the Department of Psychology and Neuroscience at the University of Colorado Boulder working with [Dr. Youngki Hong](https://www.svmlab.org/). I completed my PhD in Psychology at Cornell University.
 
 **I study the cognitive and neural mechanisms underlying biases in social learning and perception.** My research focuses on how stereotypes are formed and maintained, and how person perception shifts across group boundaries and social contexts. I use a multi-method approach to explore these questions, including behavioral experiments, computational modeling, and fMRI.
-
-In my spare time, I enjoy baking, playing trumpet in my local community concert band, and camping.

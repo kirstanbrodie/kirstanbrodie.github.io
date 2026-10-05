@@ -8,12 +8,14 @@ title: "Publications"
 
 #### [Manuscripts in progress]{.underline}
 
-**Brodie, K.**, Reggev, N., & Krosch, A. (in prep). Stereotype congruence biases social learning.
+**Brodie, K.**, Cohen, B.R., & Hong, Y. (submitted). Facial evidence matters less for stereotype-consistent judgments: Weaker formidability-aggression associations in Black vs. White faces. [**Online**](https://osf.io/preprints/psyarxiv/y6nc7){target="_blank"} \| [**PDF**](files/papers/BrodieCohenHong_2026_10_02.pdf)
 
-**Brodie, K.**, Schwitzgebel, E., Nemirow, J., & Cushman, F. (revise and resubmit). Philosophical arguments can boost charitable giving. [**Online**](https://osf.io/preprints/psyarxiv/5v2md_v1){target="_blank"} \| [**PDF**](files/papers/Charitable_Giving_Manuscript_Preprint.pdf)
+**Brodie, K.**, Schwitzgebel, E., Nemirow, J., & Cushman, F. (invited resubmission). Philosophical arguments can boost charitable giving. [**Online**](https://osf.io/preprints/psyarxiv/5v2md){target="_blank"} \| [**PDF**](files/papers/Charitable_Giving_Manuscript_Preprint.pdf)
+
+**Brodie, K.**, Reggev, N., & Krosch, A. (in prep). Stereotype congruence biases social learning.
 
 #### [Peer-reviewed publications]{.underline}
 
-Lee, R., **Brodie, K.**, Richardson, J., & Gilovich, T. (in press). Glad to help out: Grateful people are more likely to engage in costly prosocial action. *Emotion.* [**Online**](https://psycnet.apa.org/record/2028-15370-001){target="_blank"} \| [**PDF**](files/papers/LeeBrodieRichardsonGilovich2026.pdf)
+Lee, R., **Brodie, K.**, Richardson, J., & Gilovich, T. (2026). Glad to help out: Grateful people are more likely to engage in costly prosocial action. *Emotion.* [**Online**](https://psycnet.apa.org/record/2028-15370-001){target="_blank"} \| [**PDF**](files/papers/LeeBrodieRichardsonGilovich2026.pdf)
 
 Reggev, N., **Brodie, K.**, Cikara, M., & Mitchell, J.P. (2020). Human face-selective cortex does not distinguish between members of a racial outgroup. *ENeuro*, *7*(3). [**Online**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7266143/){target="_blank"} \| [**PDF**](files/papers/ReggevBrodieCikaraMitchell2020.pdf)
